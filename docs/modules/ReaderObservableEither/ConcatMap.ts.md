@@ -1,10 +1,10 @@
 ---
-title: ReaderObservableEither.ts
-nav_order: 28
+title: ReaderObservableEither/ConcatMap.ts
+nav_order: 29
 parent: Modules
 ---
 
-## ReaderObservableEither overview
+## ConcatMap overview
 
 Added in v0.6.10
 

@@ -1,10 +1,10 @@
 ---
-title: ObservableOption.ts
-nav_order: 13
+title: ObservableOption/SwitchMap.ts
+nav_order: 17
 parent: Modules
 ---
 
-## ObservableOption overview
+## SwitchMap overview
 
 Added in v0.6.14
 

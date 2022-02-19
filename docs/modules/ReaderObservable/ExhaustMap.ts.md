@@ -1,10 +1,10 @@
 ---
-title: ReaderObservable.ts
-nav_order: 23
+title: ReaderObservable/ExhaustMap.ts
+nav_order: 25
 parent: Modules
 ---
 
-## ReaderObservable overview
+## ExhaustMap overview
 
 Added in v0.6.6
 

@@ -1,10 +1,10 @@
 ---
-title: ObservableOption.ts
-nav_order: 13
+title: ObservableOption/ExhaustMap.ts
+nav_order: 15
 parent: Modules
 ---
 
-## ObservableOption overview
+## ExhaustMap overview
 
 Added in v0.6.14
 

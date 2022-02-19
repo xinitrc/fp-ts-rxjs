@@ -1,10 +1,10 @@
 ---
-title: ObservableOption.ts
-nav_order: 13
+title: ObservableOption/MergeMap.ts
+nav_order: 16
 parent: Modules
 ---
 
-## ObservableOption overview
+## MergeMap overview
 
 Added in v0.6.14
 

@@ -1,10 +1,10 @@
 ---
-title: ObservableEither.ts
-nav_order: 8
+title: ObservableEither/ConcatMap.ts
+nav_order: 9
 parent: Modules
 ---
 
-## ObservableEither overview
+## ConcatMap overview
 
 Added in v0.6.8
 

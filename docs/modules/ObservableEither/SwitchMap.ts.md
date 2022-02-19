@@ -1,10 +1,10 @@
 ---
-title: ObservableEither.ts
-nav_order: 8
+title: ObservableEither/SwitchMap.ts
+nav_order: 12
 parent: Modules
 ---
 
-## ObservableEither overview
+## SwitchMap overview
 
 Added in v0.6.8
 

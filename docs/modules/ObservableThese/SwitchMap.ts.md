@@ -1,10 +1,10 @@
 ---
-title: ObservableThese.ts
-nav_order: 18
+title: ObservableThese/SwitchMap.ts
+nav_order: 22
 parent: Modules
 ---
 
-## ObservableThese overview
+## SwitchMap overview
 
 Added in v0.6.12
 

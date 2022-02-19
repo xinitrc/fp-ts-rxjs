@@ -1,10 +1,10 @@
 ---
-title: StateReaderObservableEither.ts
-nav_order: 33
+title: StateReaderObservableEither/ExhaustMap.ts
+nav_order: 35
 parent: Modules
 ---
 
-## StateReaderObservableEither overview
+## ExhaustMap overview
 
 Added in v0.6.10
 

@@ -1,10 +1,10 @@
 ---
-title: ReaderObservable.ts
-nav_order: 23
+title: ReaderObservable/ConcatMap.ts
+nav_order: 24
 parent: Modules
 ---
 
-## ReaderObservable overview
+## ConcatMap overview
 
 Added in v0.6.6
 

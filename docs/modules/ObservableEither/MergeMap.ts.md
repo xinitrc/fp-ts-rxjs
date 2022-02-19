@@ -1,10 +1,10 @@
 ---
-title: ObservableEither.ts
-nav_order: 8
+title: ObservableEither/MergeMap.ts
+nav_order: 11
 parent: Modules
 ---
 
-## ObservableEither overview
+## MergeMap overview
 
 Added in v0.6.8
 

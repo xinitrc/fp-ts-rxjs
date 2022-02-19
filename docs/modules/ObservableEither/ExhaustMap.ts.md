@@ -1,10 +1,10 @@
 ---
-title: ObservableEither.ts
-nav_order: 8
+title: ObservableEither/ExhaustMap.ts
+nav_order: 10
 parent: Modules
 ---
 
-## ObservableEither overview
+## ExhaustMap overview
 
 Added in v0.6.8
 

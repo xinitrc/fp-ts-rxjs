@@ -1,10 +1,10 @@
 ---
-title: ObservableThese.ts
-nav_order: 18
+title: ObservableThese/ExhaustMap.ts
+nav_order: 20
 parent: Modules
 ---
 
-## ObservableThese overview
+## ExhaustMap overview
 
 Added in v0.6.12
 

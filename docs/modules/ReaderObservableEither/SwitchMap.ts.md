@@ -1,10 +1,10 @@
 ---
-title: ReaderObservableEither.ts
-nav_order: 28
+title: ReaderObservableEither/SwitchMap.ts
+nav_order: 32
 parent: Modules
 ---
 
-## ReaderObservableEither overview
+## SwitchMap overview
 
 Added in v0.6.10
 

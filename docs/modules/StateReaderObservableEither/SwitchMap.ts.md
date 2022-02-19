@@ -1,10 +1,10 @@
 ---
-title: StateReaderObservableEither.ts
-nav_order: 33
+title: StateReaderObservableEither/SwitchMap.ts
+nav_order: 37
 parent: Modules
 ---
 
-## StateReaderObservableEither overview
+## SwitchMap overview
 
 Added in v0.6.10
 

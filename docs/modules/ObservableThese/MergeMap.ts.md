@@ -1,10 +1,10 @@
 ---
-title: ObservableThese.ts
-nav_order: 18
+title: ObservableThese/MergeMap.ts
+nav_order: 21
 parent: Modules
 ---
 
-## ObservableThese overview
+## MergeMap overview
 
 Added in v0.6.12
 

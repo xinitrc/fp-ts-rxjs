@@ -1,10 +1,10 @@
 ---
-title: ObservableOption.ts
-nav_order: 13
+title: ObservableOption/ConcatMap.ts
+nav_order: 14
 parent: Modules
 ---
 
-## ObservableOption overview
+## ConcatMap overview
 
 Added in v0.6.14
 

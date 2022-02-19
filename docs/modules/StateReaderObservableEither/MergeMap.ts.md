@@ -1,10 +1,10 @@
 ---
-title: StateReaderObservableEither.ts
-nav_order: 33
+title: StateReaderObservableEither/MergeMap.ts
+nav_order: 36
 parent: Modules
 ---
 
-## StateReaderObservableEither overview
+## MergeMap overview
 
 Added in v0.6.10
 

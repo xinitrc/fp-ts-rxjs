@@ -1,10 +1,10 @@
 ---
-title: ObservableThese.ts
-nav_order: 18
+title: ObservableThese/ConcatMap.ts
+nav_order: 19
 parent: Modules
 ---
 
-## ObservableThese overview
+## ConcatMap overview
 
 Added in v0.6.12
 

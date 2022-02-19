@@ -1,10 +1,10 @@
 ---
-title: ReaderObservable.ts
-nav_order: 23
+title: ReaderObservable/MergeMap.ts
+nav_order: 26
 parent: Modules
 ---
 
-## ReaderObservable overview
+## MergeMap overview
 
 Added in v0.6.6
 

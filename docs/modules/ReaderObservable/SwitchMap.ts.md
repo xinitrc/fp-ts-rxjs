@@ -1,10 +1,10 @@
 ---
-title: ReaderObservable.ts
-nav_order: 23
+title: ReaderObservable/SwitchMap.ts
+nav_order: 27
 parent: Modules
 ---
 
-## ReaderObservable overview
+## SwitchMap overview
 
 Added in v0.6.6
 
